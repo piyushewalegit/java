@@ -28,7 +28,7 @@ public class quizz {
                 scorce++;
             }
             else {
-                System.out.println("wrong");
+                System.out.println("wrongg");
             }
         }
         System.out.println("your total scorce is= "+scorce+" from 3 que");
