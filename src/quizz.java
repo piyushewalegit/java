@@ -5,7 +5,7 @@ public class quizz {
         String[] question={"1.what is name","2.what is clg","3.movie name"};
         String[][] option={{"1.piyush","2.rahul","3.raj"},
                             {"1.pccoe","2.dyp","3.IU"},
-                            {"1.noland","2.rrr","3.salman"}};
+                            {"1.noland","2.rrr","3.rohit"}};
 
         int[] ans={1,2,3};
         int scorce=0;
